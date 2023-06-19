@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/email-cap-td/static/css/main.10b45d63.css",
-    "main.js": "/email-cap-td/static/js/main.98908983.js",
-    "static/js/787.aadc35a1.chunk.js": "/email-cap-td/static/js/787.aadc35a1.chunk.js",
-    "index.html": "/email-cap-td/index.html",
-    "main.10b45d63.css.map": "/email-cap-td/static/css/main.10b45d63.css.map",
-    "main.98908983.js.map": "/email-cap-td/static/js/main.98908983.js.map",
-    "787.aadc35a1.chunk.js.map": "/email-cap-td/static/js/787.aadc35a1.chunk.js.map"
+    "main.css": "/mastering-shopify/static/css/main.10b45d63.css",
+    "main.js": "/mastering-shopify/static/js/main.d21e09de.js",
+    "static/js/787.aadc35a1.chunk.js": "/mastering-shopify/static/js/787.aadc35a1.chunk.js",
+    "index.html": "/mastering-shopify/index.html",
+    "main.10b45d63.css.map": "/mastering-shopify/static/css/main.10b45d63.css.map",
+    "main.d21e09de.js.map": "/mastering-shopify/static/js/main.d21e09de.js.map",
+    "787.aadc35a1.chunk.js.map": "/mastering-shopify/static/js/787.aadc35a1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10b45d63.css",
-    "static/js/main.98908983.js"
+    "static/js/main.d21e09de.js"
   ]
 }
