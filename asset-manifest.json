@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.83b16604.css",
-    "main.js": "/react-gh-pages/static/js/main.818085fa.js",
-    "static/js/787.aadc35a1.chunk.js": "/react-gh-pages/static/js/787.aadc35a1.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.83b16604.css.map": "/react-gh-pages/static/css/main.83b16604.css.map",
-    "main.818085fa.js.map": "/react-gh-pages/static/js/main.818085fa.js.map",
-    "787.aadc35a1.chunk.js.map": "/react-gh-pages/static/js/787.aadc35a1.chunk.js.map"
+    "main.css": "/email-cap-td/static/css/main.83b16604.css",
+    "main.js": "/email-cap-td/static/js/main.2f98bf65.js",
+    "static/js/787.aadc35a1.chunk.js": "/email-cap-td/static/js/787.aadc35a1.chunk.js",
+    "index.html": "/email-cap-td/index.html",
+    "main.83b16604.css.map": "/email-cap-td/static/css/main.83b16604.css.map",
+    "main.2f98bf65.js.map": "/email-cap-td/static/js/main.2f98bf65.js.map",
+    "787.aadc35a1.chunk.js.map": "/email-cap-td/static/js/787.aadc35a1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83b16604.css",
-    "static/js/main.818085fa.js"
+    "static/js/main.2f98bf65.js"
   ]
 }
