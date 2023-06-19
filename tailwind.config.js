@@ -4,8 +4,9 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        lightBlue: "#1E90FF",
-        darkBlue: "#204c8a",
+        lightBlue: "#000",
+        darkBlue: "#00b6aa",
+        blackgrey: "#333",
       },
       fontFamily: {
         goog: ["IBM Plex Mono", "monospace"],

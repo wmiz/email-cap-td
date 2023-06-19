@@ -18,7 +18,7 @@ export default function App() {
   }, []);
 
   return (
-    <div id="app" className={`bg-lightBlue h-screen flex flex-column w-full flex-wrap p-8 md:p-20 items-center content-center font-goog ${isVisible ? 'show' : ''}`}>
+    <div id="app" className={`bg-lightBlue h-screen text-center md:text-left flex flex-column w-full flex-wrap p-8 md:p-20 items-center content-center font-goog ${isVisible ? 'show' : ''}`}>
         <TitleLogo />
         <SignUp />
     </div>
