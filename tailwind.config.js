@@ -8,7 +8,7 @@ module.exports = {
         darkBlue: "#204c8a",
       },
       fontFamily: {
-        sans: ["goog", "Turret Road", "sans-serif"],
+        goog: ["IBM Plex Mono", "monospace"],
       },
     },
   },
