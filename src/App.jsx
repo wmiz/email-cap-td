@@ -3,7 +3,8 @@ import TitleLogo from "./components/TitleLogo";
 import SignUp from "./components/SignUp";
 import ReactGA from "react-ga4";
 
-ReactGA.initialize('G-HC1G9YRXWS');
+const GAID = 'G-HC1G9YRXWS';
+ReactGA.initialize(GAID);
 
 
 export default function App() {
