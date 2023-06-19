@@ -1,6 +1,9 @@
 import React, {useEffect, useState} from "react";
 import TitleLogo from "./components/TitleLogo";
 import SignUp from "./components/SignUp";
+import ReactGA from "react-ga4";
+
+ReactGA.initialize('G-HC1G9YRXWS');
 
 
 export default function App() {
@@ -9,6 +12,8 @@ export default function App() {
 
   useEffect(() => {
     setVisible(true);
+    ReactGA.send({ hitType: "pageview", page: "/", title: "Capture" });
+
   }, []);
 
   return (
