@@ -6,7 +6,6 @@ import ReactGA from "react-ga4";
 
 const SignUp = () => {
   function handleSubmit(e) {
-    console.log('handling')
     ReactGA.send({ category: "Form", action: "submit", label: "Newsletter Signup" });
     return true;
   }
