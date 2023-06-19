@@ -12,7 +12,7 @@ export default function App() {
 
   useEffect(() => {
     setVisible(true);
-    ReactGA.send({ hitType: "pageview", page: "/", title: "Capture" });
+    ReactGA.send({ hitType: "pageview", page: "/" });
 
   }, []);
 
