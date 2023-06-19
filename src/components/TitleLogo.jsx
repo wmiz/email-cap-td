@@ -13,7 +13,7 @@ const TitleLogo = () => {
         Mastering Ecom One Byte at a Time
       </h2>
 
-      <p className="text-white text-md p-2 md:text-2xl my-2 bg-blackgrey rounded-md md:px-4">
+      <p className="text-white text-md p-2 md:text-2xl my-2 bg-blackgrey rounded-md md:px-4 max-w-screen-md	">
         The weekly email that makes creating Shopify stores a breeze.
       </p>
       <ul className="w-full text-white text-left text-md md:text-xl my-2">
